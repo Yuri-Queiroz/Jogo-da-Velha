@@ -1,0 +1,73 @@
+body{
+    /* background-color: aquamarine; */
+    background-image: url('fundo.jpg');
+}
+
+#container{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.flutuar{
+    height: 81px;
+    width: 81px;
+    border: 2px solid red;
+    float: left;
+    text-align: center;
+}
+
+.marcado{
+    height: 81px;
+    width: 81px;
+    border: 2px solid red;
+    float: left;
+    text-align: center;
+}
+
+#um{
+    border-top: none;
+    border-left: none;
+}
+
+#dois{
+    border-top: none;
+}
+
+#tres{
+    border-top: none;
+    border-right: none;
+}
+
+#quatro{
+    border-left: none;
+}
+
+#seis{
+    border-right: none;
+}
+
+#sete{
+    border-left: none;
+    border-bottom: none;
+}
+
+#oito{
+    border-bottom: none;
+}
+
+#nove{
+    border-bottom: none;
+    border-right: none;
+}
+
+
+
+
+
+
+/* .limpar{
+    clear: both;
+} */

@@ -1,0 +1,11 @@
+body{
+    /* background-color: aquamarine; */
+    background-image: url('fundo.jpg');
+}
+
+#container{
+    text-align: center;
+    color: aliceblue;
+    font-size: 2em;
+    margin-top: 25%;
+}
